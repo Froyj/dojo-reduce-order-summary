@@ -37,7 +37,7 @@ describe("calcOrderSummary", function () {
         {
           Jacques: 50,
           Dino: 60,
-          Yves: 20,
+          Yves: 10,
         }
       );
     });
