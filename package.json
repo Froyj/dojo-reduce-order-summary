@@ -1,0 +1,15 @@
+{
+  "name": "dojo-reduce-orders-recap",
+  "version": "1.0.0",
+  "description": "dojo exercise about reduce",
+  "main": "order-recap.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
